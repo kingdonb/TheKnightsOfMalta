@@ -1,3 +1,3 @@
 @echo off
 
-npm install && node_modules\.bin\hubot.cmd --name "malta-pairing" %* 
+npm install && node_modules\.bin\hubot.cmd --name "slack-hubot" %* 

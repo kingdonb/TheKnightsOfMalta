@@ -4,3 +4,4 @@ node_modules/**
 !node_modules/hubot-malta/**/*
 .DS_Store*
 .hubot_history
+**~
